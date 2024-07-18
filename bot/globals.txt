@@ -1,0 +1,81 @@
+# jwttoken={}
+# username="NULL"
+# password="NULL"
+# is_user=False
+# uinfo={}
+
+# demo_jwttoken={}
+# pextid="NULL"
+# is_patient=False
+# psearchinfo={}
+# pinfo={}
+
+# responsehandler=0
+
+TYPE_VALUE_MAP = {
+    "Transportation": 2,
+    "Pharmacist": 3,
+    "Volunteer": 5,
+    "StaffReadOnly": 9,
+    "Staff": 10,
+    "NurseReadOnly": 13,
+    "Nurse": 14,
+    "Doctor": 15,
+    "Reserved": 20,
+    "WardAdmin": 21,
+    "LocalBodyAdmin": 23,
+    "DistrictLabAdmin": 25,
+    "DistrictReadOnlyAdmin": 29,
+    "DistrictAdmin": 30,
+    "StateLabAdmin": 35,
+    "StateReadOnlyAdmin": 39,
+    "StateAdmin": 40,
+}
+
+
+
+
+
+
+# def set_demo_jwttokenvalue(value):
+#     global demo_jwttoken
+#     demo_jwttoken=value
+# def get_demo_jwttokenvalue():
+#     global demo_jwttoken
+#     return demo_jwttoken
+
+# def set_is_patient(value):
+#     global is_patient
+#     is_patient=value
+# def get_is_patient():
+#     global is_patient
+#     return is_patient
+
+# def set_patientsearchinfovalue(value):
+#     global psearchinfo
+#     psearchinfo=value
+# def get_patientsearchinfovalue():
+#     global psearchinfo
+#     return psearchinfo
+
+# def set_patientinfovalue(value):
+#     global pinfo
+#     pinfo=value
+# def get_patientinfovalue():
+#     global pinfo
+#     return pinfo
+
+# def set_patientextid(value):
+#     global pextid
+#     pextid=value
+# def get_patientextid():
+#     global pextid
+#     return pextid
+
+
+# def set_response_handler(value):
+#     global responsehandler
+#     responsehandler=value
+# def get_response_handler():
+#     global responsehandler
+#     return responsehandler

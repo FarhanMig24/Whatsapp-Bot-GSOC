@@ -1,0 +1,1402 @@
+{
+    "id": "string",
+    "facility": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "facility_object": {
+      "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+      "name": "string",
+      "ward": 0,
+      "local_body": 0,
+      "district": 0,
+      "state": 0,
+      "facility_type": 1,
+      "address": "string",
+      "longitude": "-",
+      "latitude": "-34236.52760668829886",
+      "features": [
+        1
+      ],
+      "pincode": 2147483647,
+      "oxygen_capacity": 2147483647,
+      "phone_number": "+917410330778",
+      "ward_object": {
+        "id": 0,
+        "name": "string",
+        "number": 2147483647,
+        "local_body": 0
+      },
+      "local_body_object": {
+        "id": 0,
+        "name": "string",
+        "body_type": 1,
+        "localbody_code": "string",
+        "district": 0
+      },
+      "district_object": {
+        "id": 0,
+        "name": "string",
+        "state": 0
+      },
+      "state_object": {
+        "id": 0,
+        "name": "string"
+      },
+      "modified_date": "2024-03-28T18:46:20.234Z",
+      "created_date": "2024-03-28T18:46:20.234Z",
+      "kasp_empanelled": true,
+      "middleware_address": "string",
+      "expected_oxygen_requirement": 2147483647,
+      "type_b_cylinders": 2147483647,
+      "type_c_cylinders": 2147483647,
+      "type_d_cylinders": 2147483647,
+      "expected_type_b_cylinders": 2147483647,
+      "expected_type_c_cylinders": 2147483647,
+      "expected_type_d_cylinders": 2147483647,
+      "read_cover_image_url": "string",
+      "patient_count": "string",
+      "bed_count": "string"
+    },
+    "ward_object": {
+      "id": 0,
+      "name": "string",
+      "number": 2147483647,
+      "local_body": 0
+    },
+    "local_body_object": {
+      "id": 0,
+      "name": "string",
+      "body_type": 1,
+      "localbody_code": "string",
+      "district": 0
+    },
+    "district_object": {
+      "id": 0,
+      "name": "string",
+      "state": 0
+    },
+    "state_object": {
+      "id": 0,
+      "name": "string"
+    },
+    "last_consultation": {
+      "id": "string",
+      "facility_name": "string",
+      "suggestion_text": "HI",
+      "symptoms": [
+        1
+      ],
+      "deprecated_covid_category": "ASYM",
+      "category": "Comfort",
+      "referred_to_object": {
+        "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+        "name": "string",
+        "local_body": 0,
+        "district": 0,
+        "state": 0,
+        "ward_object": {
+          "id": 0,
+          "name": "string",
+          "number": 2147483647,
+          "local_body": 0
+        },
+        "local_body_object": {
+          "id": 0,
+          "name": "string",
+          "body_type": 1,
+          "localbody_code": "string",
+          "district": 0
+        },
+        "district_object": {
+          "id": 0,
+          "name": "string",
+          "state": 0
+        },
+        "state_object": {
+          "id": 0,
+          "name": "string"
+        },
+        "facility_type": "string",
+        "read_cover_image_url": "string",
+        "features": [
+          1
+        ],
+        "patient_count": "string",
+        "bed_count": "string"
+      },
+      "referred_to": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+      "referred_to_external": "string",
+      "referred_from_facility_object": {
+        "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+        "name": "string",
+        "local_body": 0,
+        "district": 0,
+        "state": 0,
+        "ward_object": {
+          "id": 0,
+          "name": "string",
+          "number": 2147483647,
+          "local_body": 0
+        },
+        "local_body_object": {
+          "id": 0,
+          "name": "string",
+          "body_type": 1,
+          "localbody_code": "string",
+          "district": 0
+        },
+        "district_object": {
+          "id": 0,
+          "name": "string",
+          "state": 0
+        },
+        "state_object": {
+          "id": 0,
+          "name": "string"
+        },
+        "facility_type": "string",
+        "read_cover_image_url": "string",
+        "features": [
+          1
+        ],
+        "patient_count": "string",
+        "bed_count": "string"
+      },
+      "referred_from_facility": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+      "referred_from_facility_external": "string",
+      "referred_by_external": "string",
+      "transferred_from_location_object": {
+        "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+        "facility": {
+          "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+          "name": "string"
+        },
+        "location_type": 1,
+        "created_date": "2024-03-28T18:46:20.234Z",
+        "modified_date": "2024-03-28T18:46:20.234Z",
+        "name": "string",
+        "description": "string",
+        "middleware_address": "string"
+      },
+      "transferred_from_location": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+      "patient": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+      "facility": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+      "assigned_to_object": {
+        "id": 0,
+        "first_name": "string",
+        "username": "kx6n8k23",
+        "email": "user@example.com",
+        "last_name": "string",
+        "alt_phone_number": "+918615091083",
+        "user_type": 2,
+        "last_login": "2024-03-28T18:46:20.234Z",
+        "home_facility_object": {
+          "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+          "name": "string"
+        },
+        "doctor_qualification": "string",
+        "doctor_experience_commenced_on": "2024-03-28",
+        "video_connect_link": "string",
+        "doctor_medical_council_registration": "string",
+        "skills": [
+          {
+            "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+            "name": "string",
+            "description": "string"
+          }
+        ]
+      },
+      "assigned_to": 0,
+      "treating_physician_object": {
+        "id": 0,
+        "first_name": "string",
+        "username": "bgmo98u9rd.z_-d",
+        "email": "user@example.com",
+        "last_name": "string",
+        "user_type": 2,
+        "last_login": "2024-03-28T18:46:20.234Z"
+      },
+      "treating_physician": 0,
+      "new_discharge_reason": -1,
+      "discharge_notes": "string",
+      "discharge_prescription": "string",
+      "discharge_prn_prescription": "string",
+      "review_interval": -1,
+      "last_edited_by": {
+        "id": 0,
+        "first_name": "string",
+        "username": "9vao2e.fv7aoor",
+        "email": "user@example.com",
+        "last_name": "string",
+        "user_type": 2,
+        "last_login": "2024-03-28T18:46:20.234Z"
+      },
+      "created_by": {
+        "id": 0,
+        "first_name": "string",
+        "username": "cp5.d",
+        "email": "user@example.com",
+        "last_name": "string",
+        "user_type": 2,
+        "last_login": "2024-03-28T18:46:20.234Z"
+      },
+      "last_daily_round": {
+        "id": "string",
+        "additional_symptoms": [
+          1
+        ],
+        "deprecated_covid_category": "ASYM",
+        "patient_category": "Comfort",
+        "current_health": 0,
+        "review_interval": 0,
+        "taken_at": "2024-03-28T18:46:20.234Z",
+        "rounds_type": 0,
+        "consciousness_level": 0,
+        "left_pupil_light_reaction": 0,
+        "right_pupil_light_reaction": 0,
+        "limb_response_upper_extremity_right": 0,
+        "limb_response_upper_extremity_left": 0,
+        "limb_response_lower_extremity_left": 0,
+        "limb_response_lower_extremity_right": 0,
+        "rhythm": 0,
+        "ventilator_interface": 0,
+        "ventilator_mode": 0,
+        "ventilator_oxygen_modality": 0,
+        "insulin_intake_frequency": 0,
+        "last_edited_by": {
+          "id": 0,
+          "first_name": "string",
+          "username": "puzx50ku2",
+          "email": "user@example.com",
+          "last_name": "string",
+          "user_type": 2,
+          "last_login": "2024-03-28T18:46:20.234Z"
+        },
+        "created_by": {
+          "id": 0,
+          "first_name": "string",
+          "username": "nk.3arxq.6mnq04x",
+          "email": "user@example.com",
+          "last_name": "string",
+          "user_type": 2,
+          "last_login": "2024-03-28T18:46:20.234Z"
+        },
+        "external_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+        "created_date": "2024-03-28T18:46:20.234Z",
+        "modified_date": "2024-03-28T18:46:20.234Z",
+        "temperature": "650.2",
+        "spo2": "",
+        "temperature_measured_at": "2024-03-28T18:46:20.234Z",
+        "physical_examination_info": "string",
+        "other_symptoms": "string",
+        "other_details": "string",
+        "medication_given": {
+          "additionalProp1": "string",
+          "additionalProp2": "string",
+          "additionalProp3": "string"
+        },
+        "last_updated_by_telemedicine": true,
+        "created_by_telemedicine": true,
+        "consciousness_level_detail": "string",
+        "in_prone_position": true,
+        "left_pupil_size": 8,
+        "left_pupil_size_detail": "string",
+        "left_pupil_light_reaction_detail": "string",
+        "right_pupil_size": 8,
+        "right_pupil_size_detail": "string",
+        "right_pupil_light_reaction_detail": "string",
+        "glasgow_eye_open": 4,
+        "glasgow_verbal_response": 5,
+        "glasgow_motor_response": 6,
+        "glasgow_total_calculated": 0,
+        "bp": {
+          "additionalProp1": "string",
+          "additionalProp2": "string",
+          "additionalProp3": "string"
+        },
+        "pulse": 200,
+        "resp": 150,
+        "rhythm_detail": "string",
+        "ventilator_peep": "-22",
+        "ventilator_pip": 100,
+        "ventilator_mean_airway_pressure": 40,
+        "ventilator_resp_rate": 100,
+        "ventilator_pressure_support": 40,
+        "ventilator_tidal_volume": 1000,
+        "ventilator_oxygen_modality_oxygen_rate": 50,
+        "ventilator_oxygen_modality_flow_rate": 70,
+        "ventilator_fi02": 100,
+        "ventilator_spo2": 100,
+        "etco2": 200,
+        "bilateral_air_entry": true,
+        "pain": 10,
+        "pain_scale_enhanced": {
+          "additionalProp1": "string",
+          "additionalProp2": "string",
+          "additionalProp3": "string"
+        },
+        "ph": "-.9",
+        "pco2": 200,
+        "po2": 400,
+        "hco3": "7",
+        "base_excess": 20,
+        "lactate": "-",
+        "sodium": "168",
+        "potassium": "01.",
+        "blood_sugar_level": 700,
+        "insulin_intake_dose": "",
+        "infusions": {
+          "additionalProp1": "string",
+          "additionalProp2": "string",
+          "additionalProp3": "string"
+        },
+        "iv_fluids": {
+          "additionalProp1": "string",
+          "additionalProp2": "string",
+          "additionalProp3": "string"
+        },
+        "feeds": {
+          "additionalProp1": "string",
+          "additionalProp2": "string",
+          "additionalProp3": "string"
+        },
+        "total_intake_calculated": "3068.3",
+        "output": {
+          "additionalProp1": "string",
+          "additionalProp2": "string",
+          "additionalProp3": "string"
+        },
+        "total_output_calculated": "6.07",
+        "dialysis_fluid_balance": 5000,
+        "dialysis_net_balance": 5000,
+        "pressure_sore": {
+          "additionalProp1": "string",
+          "additionalProp2": "string",
+          "additionalProp3": "string"
+        },
+        "nursing": {
+          "additionalProp1": "string",
+          "additionalProp2": "string",
+          "additionalProp3": "string"
+        },
+        "medicine_administration": {
+          "additionalProp1": "string",
+          "additionalProp2": "string",
+          "additionalProp3": "string"
+        },
+        "meta": {
+          "additionalProp1": "string",
+          "additionalProp2": "string",
+          "additionalProp3": "string"
+        },
+        "consultation": 0
+      },
+      "current_bed": {
+        "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+        "bed_object": {
+          "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+          "name": "string",
+          "bed_type": 1,
+          "location_object": {
+            "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+            "facility": {
+              "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+              "name": "string"
+            },
+            "location_type": 1,
+            "created_date": "2024-03-28T18:46:20.235Z",
+            "modified_date": "2024-03-28T18:46:20.235Z",
+            "name": "string",
+            "description": "string",
+            "middleware_address": "string"
+          },
+          "is_occupied": false,
+          "created_date": "2024-03-28T18:46:20.235Z",
+          "modified_date": "2024-03-28T18:46:20.235Z",
+          "description": "string",
+          "meta": {
+            "additionalProp1": "string",
+            "additionalProp2": "string",
+            "additionalProp3": "string"
+          }
+        },
+        "assets_objects": [
+          {
+            "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+            "status": 50,
+            "asset_type": 50,
+            "location_object": {
+              "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+              "facility": {
+                "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                "name": "string"
+              },
+              "location_type": 1,
+              "created_date": "2024-03-28T18:46:20.235Z",
+              "modified_date": "2024-03-28T18:46:20.235Z",
+              "name": "string",
+              "description": "string",
+              "middleware_address": "string"
+            },
+            "last_service": {
+              "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+              "edits": [
+                {
+                  "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                  "edited_by": {
+                    "id": 0,
+                    "first_name": "string",
+                    "username": "rhhu",
+                    "email": "user@example.com",
+                    "last_name": "string",
+                    "user_type": 2,
+                    "last_login": "2024-03-28T18:46:20.235Z"
+                  },
+                  "edited_on": "2024-03-28T18:46:20.235Z",
+                  "serviced_on": "2024-03-28",
+                  "note": "string"
+                }
+              ],
+              "external_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+              "created_date": "2024-03-28T18:46:20.235Z",
+              "modified_date": "2024-03-28T18:46:20.235Z",
+              "serviced_on": "2024-03-28",
+              "note": "string"
+            },
+            "resolved_middleware": {
+              "hostname": "string",
+              "source": "asset"
+            },
+            "latest_status": "string",
+            "created_date": "2024-03-28T18:46:20.235Z",
+            "modified_date": "2024-03-28T18:46:20.235Z",
+            "name": "string",
+            "description": "string",
+            "asset_class": "ONVIF",
+            "is_working": true,
+            "not_working_reason": "string",
+            "serial_number": "string",
+            "warranty_details": "string",
+            "meta": {
+              "additionalProp1": "string",
+              "additionalProp2": "string",
+              "additionalProp3": "string"
+            },
+            "vendor_name": "string",
+            "support_name": "string",
+            "support_phone": "18604374520",
+            "support_email": "user@example.com",
+            "qr_code_id": "string",
+            "manufacturer": "string",
+            "warranty_amc_end_of_validity": "2024-03-28"
+          }
+        ],
+        "start_date": "2024-03-28T18:46:20.235Z",
+        "created_date": "2024-03-28T18:46:20.235Z",
+        "modified_date": "2024-03-28T18:46:20.235Z",
+        "end_date": "2024-03-28T18:46:20.235Z",
+        "meta": {
+          "additionalProp1": "string",
+          "additionalProp2": "string",
+          "additionalProp3": "string"
+        }
+      },
+      "bed": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+      "diagnoses": [
+        {
+          "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+          "diagnosis": 9223372036854776000,
+          "diagnosis_object": "string",
+          "created_by": {
+            "id": 0,
+            "first_name": "string",
+            "username": "kazwrq",
+            "email": "user@example.com",
+            "last_name": "string",
+            "user_type": 2,
+            "last_login": "2024-03-28T18:46:20.235Z"
+          },
+          "created_date": "2024-03-28T18:46:20.235Z",
+          "modified_date": "2024-03-28T18:46:20.235Z",
+          "verification_status": "unconfirmed",
+          "is_principal": true,
+          "is_migrated": true
+        }
+      ],
+      "medico_legal_case": false,
+      "created_date": "2024-03-28T18:46:20.235Z",
+      "modified_date": "2024-03-28T18:46:20.235Z",
+      "patient_no": "string",
+      "deprecated_diagnosis": "string",
+      "other_symptoms": "string",
+      "symptoms_onset_date": "2024-03-28T18:46:20.235Z",
+      "examination_details": "string",
+      "history_of_present_illness": "string",
+      "treatment_plan": "string",
+      "consultation_notes": "string",
+      "course_in_facility": "string",
+      "investigation": {
+        "additionalProp1": "string",
+        "additionalProp2": "string",
+        "additionalProp3": "string"
+      },
+      "prescriptions": {
+        "additionalProp1": "string",
+        "additionalProp2": "string",
+        "additionalProp3": "string"
+      },
+      "procedure": {
+        "additionalProp1": "string",
+        "additionalProp2": "string",
+        "additionalProp3": "string"
+      },
+      "suggestion": "HI",
+      "route_to_facility": 10,
+      "is_readmission": true,
+      "admitted": true,
+      "encounter_date": "2024-03-28T18:46:20.235Z",
+      "icu_admission_date": "2024-03-28T18:46:20.235Z",
+      "discharge_date": "2024-03-28T18:46:20.235Z",
+      "discharge_reason": "REC",
+      "death_datetime": "2024-03-28T18:46:20.235Z",
+      "death_confirmed_doctor": "string",
+      "bed_number": "string",
+      "is_kasp": true,
+      "kasp_enabled_date": "2024-03-28T18:46:20.235Z",
+      "is_telemedicine": true,
+      "last_updated_by_telemedicine": true,
+      "deprecated_verified_by": "string",
+      "height": 0,
+      "weight": 0,
+      "operation": "string",
+      "special_instruction": "string",
+      "intubation_history": {
+        "additionalProp1": "string",
+        "additionalProp2": "string",
+        "additionalProp3": "string"
+      },
+      "prn_prescription": {
+        "additionalProp1": "string",
+        "additionalProp2": "string",
+        "additionalProp3": "string"
+      },
+      "discharge_advice": {
+        "additionalProp1": "string",
+        "additionalProp2": "string",
+        "additionalProp3": "string"
+      },
+      "assigned_clinicians": [
+        0
+      ]
+    },
+    "blood_group": "A+",
+    "disease_status": "SUSPECTED",
+    "source": "CARE",
+    "assigned_to_object": {
+      "id": 0,
+      "first_name": "string",
+      "username": "v2_b2ryutrcfw1c",
+      "email": "user@example.com",
+      "last_name": "string",
+      "user_type": 2,
+      "last_login": "2024-03-28T18:46:20.235Z"
+    },
+    "has_eligible_policy": "string",
+    "approved_claim_amount": "string",
+    "medical_history": [
+      {
+        "disease": 1,
+        "details": "string"
+      }
+    ],
+    "tele_consultation_history": [
+      {
+        "id": 0,
+        "symptoms": 1,
+        "other_symptoms": "string",
+        "reason": "string",
+        "created_date": "2024-03-28T18:46:20.235Z",
+        "patient": 0,
+        "created_by": 0
+      }
+    ],
+    "meta_info": {
+      "id": 0,
+      "occupation": 1,
+      "head_of_household": true
+    },
+    "contacted_patients": [
+      {
+        "id": 0,
+        "relation_with_patient": 1,
+        "mode_of_contact": 1,
+        "patient_in_contact_object": {
+          "id": "string",
+          "facility": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+          "facility_object": {
+            "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+            "name": "string",
+            "local_body": 0,
+            "district": 0,
+            "state": 0,
+            "ward_object": {
+              "id": 0,
+              "name": "string",
+              "number": 2147483647,
+              "local_body": 0
+            },
+            "local_body_object": {
+              "id": 0,
+              "name": "string",
+              "body_type": 1,
+              "localbody_code": "string",
+              "district": 0
+            },
+            "district_object": {
+              "id": 0,
+              "name": "string",
+              "state": 0
+            },
+            "state_object": {
+              "id": 0,
+              "name": "string"
+            },
+            "facility_type": "string",
+            "read_cover_image_url": "string",
+            "features": [
+              1
+            ],
+            "patient_count": "string",
+            "bed_count": "string"
+          },
+          "ward_object": {
+            "id": 0,
+            "name": "string",
+            "number": 2147483647,
+            "local_body": 0
+          },
+          "local_body_object": {
+            "id": 0,
+            "name": "string",
+            "body_type": 1,
+            "localbody_code": "string",
+            "district": 0
+          },
+          "district_object": {
+            "id": 0,
+            "name": "string",
+            "state": 0
+          },
+          "state_object": {
+            "id": 0,
+            "name": "string"
+          },
+          "last_consultation": {
+            "id": "string",
+            "facility_name": "string",
+            "suggestion_text": "HI",
+            "symptoms": [
+              1
+            ],
+            "deprecated_covid_category": "ASYM",
+            "category": "Comfort",
+            "referred_to_object": {
+              "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+              "name": "string",
+              "local_body": 0,
+              "district": 0,
+              "state": 0,
+              "ward_object": {
+                "id": 0,
+                "name": "string",
+                "number": 2147483647,
+                "local_body": 0
+              },
+              "local_body_object": {
+                "id": 0,
+                "name": "string",
+                "body_type": 1,
+                "localbody_code": "string",
+                "district": 0
+              },
+              "district_object": {
+                "id": 0,
+                "name": "string",
+                "state": 0
+              },
+              "state_object": {
+                "id": 0,
+                "name": "string"
+              },
+              "facility_type": "string",
+              "read_cover_image_url": "string",
+              "features": [
+                1
+              ],
+              "patient_count": "string",
+              "bed_count": "string"
+            },
+            "referred_to": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+            "referred_to_external": "string",
+            "referred_from_facility_object": {
+              "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+              "name": "string",
+              "local_body": 0,
+              "district": 0,
+              "state": 0,
+              "ward_object": {
+                "id": 0,
+                "name": "string",
+                "number": 2147483647,
+                "local_body": 0
+              },
+              "local_body_object": {
+                "id": 0,
+                "name": "string",
+                "body_type": 1,
+                "localbody_code": "string",
+                "district": 0
+              },
+              "district_object": {
+                "id": 0,
+                "name": "string",
+                "state": 0
+              },
+              "state_object": {
+                "id": 0,
+                "name": "string"
+              },
+              "facility_type": "string",
+              "read_cover_image_url": "string",
+              "features": [
+                1
+              ],
+              "patient_count": "string",
+              "bed_count": "string"
+            },
+            "referred_from_facility": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+            "referred_from_facility_external": "string",
+            "referred_by_external": "string",
+            "transferred_from_location_object": {
+              "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+              "facility": {
+                "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                "name": "string"
+              },
+              "location_type": 1,
+              "created_date": "2024-03-28T18:46:20.235Z",
+              "modified_date": "2024-03-28T18:46:20.235Z",
+              "name": "string",
+              "description": "string",
+              "middleware_address": "string"
+            },
+            "transferred_from_location": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+            "patient": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+            "facility": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+            "assigned_to_object": {
+              "id": 0,
+              "first_name": "string",
+              "username": "wtagyyzn",
+              "email": "user@example.com",
+              "last_name": "string",
+              "alt_phone_number": "+9375222571057",
+              "user_type": 2,
+              "last_login": "2024-03-28T18:46:20.235Z",
+              "home_facility_object": {
+                "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                "name": "string"
+              },
+              "doctor_qualification": "string",
+              "doctor_experience_commenced_on": "2024-03-28",
+              "video_connect_link": "string",
+              "doctor_medical_council_registration": "string",
+              "skills": [
+                {
+                  "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                  "name": "string",
+                  "description": "string"
+                }
+              ]
+            },
+            "assigned_to": 0,
+            "treating_physician_object": {
+              "id": 0,
+              "first_name": "string",
+              "username": "229xo08",
+              "email": "user@example.com",
+              "last_name": "string",
+              "user_type": 2,
+              "last_login": "2024-03-28T18:46:20.236Z"
+            },
+            "treating_physician": 0,
+            "new_discharge_reason": -1,
+            "discharge_notes": "string",
+            "discharge_prescription": "string",
+            "discharge_prn_prescription": "string",
+            "review_interval": -1,
+            "last_edited_by": {
+              "id": 0,
+              "first_name": "string",
+              "username": "znqnr3v7uq",
+              "email": "user@example.com",
+              "last_name": "string",
+              "user_type": 2,
+              "last_login": "2024-03-28T18:46:20.236Z"
+            },
+            "created_by": {
+              "id": 0,
+              "first_name": "string",
+              "username": "myjhhe0l46",
+              "email": "user@example.com",
+              "last_name": "string",
+              "user_type": 2,
+              "last_login": "2024-03-28T18:46:20.236Z"
+            },
+            "last_daily_round": {
+              "id": "string",
+              "additional_symptoms": [
+                1
+              ],
+              "deprecated_covid_category": "ASYM",
+              "patient_category": "Comfort",
+              "current_health": 0,
+              "review_interval": 0,
+              "taken_at": "2024-03-28T18:46:20.236Z",
+              "rounds_type": 0,
+              "consciousness_level": 0,
+              "left_pupil_light_reaction": 0,
+              "right_pupil_light_reaction": 0,
+              "limb_response_upper_extremity_right": 0,
+              "limb_response_upper_extremity_left": 0,
+              "limb_response_lower_extremity_left": 0,
+              "limb_response_lower_extremity_right": 0,
+              "rhythm": 0,
+              "ventilator_interface": 0,
+              "ventilator_mode": 0,
+              "ventilator_oxygen_modality": 0,
+              "insulin_intake_frequency": 0,
+              "last_edited_by": {
+                "id": 0,
+                "first_name": "string",
+                "username": "m7.qc02zj-0pklz",
+                "email": "user@example.com",
+                "last_name": "string",
+                "user_type": 2,
+                "last_login": "2024-03-28T18:46:20.236Z"
+              },
+              "created_by": {
+                "id": 0,
+                "first_name": "string",
+                "username": "ettv",
+                "email": "user@example.com",
+                "last_name": "string",
+                "user_type": 2,
+                "last_login": "2024-03-28T18:46:20.236Z"
+              },
+              "external_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+              "created_date": "2024-03-28T18:46:20.236Z",
+              "modified_date": "2024-03-28T18:46:20.236Z",
+              "temperature": "-50",
+              "spo2": "7.",
+              "temperature_measured_at": "2024-03-28T18:46:20.236Z",
+              "physical_examination_info": "string",
+              "other_symptoms": "string",
+              "other_details": "string",
+              "medication_given": {
+                "additionalProp1": "string",
+                "additionalProp2": "string",
+                "additionalProp3": "string"
+              },
+              "last_updated_by_telemedicine": true,
+              "created_by_telemedicine": true,
+              "consciousness_level_detail": "string",
+              "in_prone_position": true,
+              "left_pupil_size": 8,
+              "left_pupil_size_detail": "string",
+              "left_pupil_light_reaction_detail": "string",
+              "right_pupil_size": 8,
+              "right_pupil_size_detail": "string",
+              "right_pupil_light_reaction_detail": "string",
+              "glasgow_eye_open": 4,
+              "glasgow_verbal_response": 5,
+              "glasgow_motor_response": 6,
+              "glasgow_total_calculated": 0,
+              "bp": {
+                "additionalProp1": "string",
+                "additionalProp2": "string",
+                "additionalProp3": "string"
+              },
+              "pulse": 200,
+              "resp": 150,
+              "rhythm_detail": "string",
+              "ventilator_peep": "-23",
+              "ventilator_pip": 100,
+              "ventilator_mean_airway_pressure": 40,
+              "ventilator_resp_rate": 100,
+              "ventilator_pressure_support": 40,
+              "ventilator_tidal_volume": 1000,
+              "ventilator_oxygen_modality_oxygen_rate": 50,
+              "ventilator_oxygen_modality_flow_rate": 70,
+              "ventilator_fi02": 100,
+              "ventilator_spo2": 100,
+              "etco2": 200,
+              "bilateral_air_entry": true,
+              "pain": 10,
+              "pain_scale_enhanced": {
+                "additionalProp1": "string",
+                "additionalProp2": "string",
+                "additionalProp3": "string"
+              },
+              "ph": "",
+              "pco2": 200,
+              "po2": 400,
+              "hco3": "-.0",
+              "base_excess": 20,
+              "lactate": "7",
+              "sodium": "70",
+              "potassium": "-.",
+              "blood_sugar_level": 700,
+              "insulin_intake_dose": "4",
+              "infusions": {
+                "additionalProp1": "string",
+                "additionalProp2": "string",
+                "additionalProp3": "string"
+              },
+              "iv_fluids": {
+                "additionalProp1": "string",
+                "additionalProp2": "string",
+                "additionalProp3": "string"
+              },
+              "feeds": {
+                "additionalProp1": "string",
+                "additionalProp2": "string",
+                "additionalProp3": "string"
+              },
+              "total_intake_calculated": "",
+              "output": {
+                "additionalProp1": "string",
+                "additionalProp2": "string",
+                "additionalProp3": "string"
+              },
+              "total_output_calculated": "-3",
+              "dialysis_fluid_balance": 5000,
+              "dialysis_net_balance": 5000,
+              "pressure_sore": {
+                "additionalProp1": "string",
+                "additionalProp2": "string",
+                "additionalProp3": "string"
+              },
+              "nursing": {
+                "additionalProp1": "string",
+                "additionalProp2": "string",
+                "additionalProp3": "string"
+              },
+              "medicine_administration": {
+                "additionalProp1": "string",
+                "additionalProp2": "string",
+                "additionalProp3": "string"
+              },
+              "meta": {
+                "additionalProp1": "string",
+                "additionalProp2": "string",
+                "additionalProp3": "string"
+              },
+              "consultation": 0
+            },
+            "current_bed": {
+              "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+              "bed_object": {
+                "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                "name": "string",
+                "bed_type": 1,
+                "location_object": {
+                  "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                  "facility": {
+                    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                    "name": "string"
+                  },
+                  "location_type": 1,
+                  "created_date": "2024-03-28T18:46:20.236Z",
+                  "modified_date": "2024-03-28T18:46:20.236Z",
+                  "name": "string",
+                  "description": "string",
+                  "middleware_address": "string"
+                },
+                "is_occupied": false,
+                "created_date": "2024-03-28T18:46:20.236Z",
+                "modified_date": "2024-03-28T18:46:20.236Z",
+                "description": "string",
+                "meta": {
+                  "additionalProp1": "string",
+                  "additionalProp2": "string",
+                  "additionalProp3": "string"
+                }
+              },
+              "assets_objects": [
+                {
+                  "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                  "status": 50,
+                  "asset_type": 50,
+                  "location_object": {
+                    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                    "facility": {
+                      "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                      "name": "string"
+                    },
+                    "location_type": 1,
+                    "created_date": "2024-03-28T18:46:20.236Z",
+                    "modified_date": "2024-03-28T18:46:20.236Z",
+                    "name": "string",
+                    "description": "string",
+                    "middleware_address": "string"
+                  },
+                  "last_service": {
+                    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                    "edits": [
+                      {
+                        "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                        "edited_by": {
+                          "id": 0,
+                          "first_name": "string",
+                          "username": "yfgz3cte19",
+                          "email": "user@example.com",
+                          "last_name": "string",
+                          "user_type": 2,
+                          "last_login": "2024-03-28T18:46:20.236Z"
+                        },
+                        "edited_on": "2024-03-28T18:46:20.236Z",
+                        "serviced_on": "2024-03-28",
+                        "note": "string"
+                      }
+                    ],
+                    "external_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                    "created_date": "2024-03-28T18:46:20.236Z",
+                    "modified_date": "2024-03-28T18:46:20.236Z",
+                    "serviced_on": "2024-03-28",
+                    "note": "string"
+                  },
+                  "resolved_middleware": {
+                    "hostname": "string",
+                    "source": "asset"
+                  },
+                  "latest_status": "string",
+                  "created_date": "2024-03-28T18:46:20.236Z",
+                  "modified_date": "2024-03-28T18:46:20.236Z",
+                  "name": "string",
+                  "description": "string",
+                  "asset_class": "ONVIF",
+                  "is_working": true,
+                  "not_working_reason": "string",
+                  "serial_number": "string",
+                  "warranty_details": "string",
+                  "meta": {
+                    "additionalProp1": "string",
+                    "additionalProp2": "string",
+                    "additionalProp3": "string"
+                  },
+                  "vendor_name": "string",
+                  "support_name": "string",
+                  "support_phone": "1800073765",
+                  "support_email": "user@example.com",
+                  "qr_code_id": "string",
+                  "manufacturer": "string",
+                  "warranty_amc_end_of_validity": "2024-03-28"
+                }
+              ],
+              "start_date": "2024-03-28T18:46:20.236Z",
+              "created_date": "2024-03-28T18:46:20.236Z",
+              "modified_date": "2024-03-28T18:46:20.236Z",
+              "end_date": "2024-03-28T18:46:20.236Z",
+              "meta": {
+                "additionalProp1": "string",
+                "additionalProp2": "string",
+                "additionalProp3": "string"
+              }
+            },
+            "bed": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+            "diagnoses": [
+              {
+                "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                "diagnosis": 9223372036854776000,
+                "diagnosis_object": "string",
+                "created_by": {
+                  "id": 0,
+                  "first_name": "string",
+                  "username": "24x_2l_2mr54zzco",
+                  "email": "user@example.com",
+                  "last_name": "string",
+                  "user_type": 2,
+                  "last_login": "2024-03-28T18:46:20.236Z"
+                },
+                "created_date": "2024-03-28T18:46:20.236Z",
+                "modified_date": "2024-03-28T18:46:20.236Z",
+                "verification_status": "unconfirmed",
+                "is_principal": true,
+                "is_migrated": true
+              }
+            ],
+            "medico_legal_case": false,
+            "created_date": "2024-03-28T18:46:20.236Z",
+            "modified_date": "2024-03-28T18:46:20.236Z",
+            "patient_no": "string",
+            "deprecated_diagnosis": "string",
+            "other_symptoms": "string",
+            "symptoms_onset_date": "2024-03-28T18:46:20.236Z",
+            "examination_details": "string",
+            "history_of_present_illness": "string",
+            "treatment_plan": "string",
+            "consultation_notes": "string",
+            "course_in_facility": "string",
+            "investigation": {
+              "additionalProp1": "string",
+              "additionalProp2": "string",
+              "additionalProp3": "string"
+            },
+            "prescriptions": {
+              "additionalProp1": "string",
+              "additionalProp2": "string",
+              "additionalProp3": "string"
+            },
+            "procedure": {
+              "additionalProp1": "string",
+              "additionalProp2": "string",
+              "additionalProp3": "string"
+            },
+            "suggestion": "HI",
+            "route_to_facility": 10,
+            "is_readmission": true,
+            "admitted": true,
+            "encounter_date": "2024-03-28T18:46:20.236Z",
+            "icu_admission_date": "2024-03-28T18:46:20.236Z",
+            "discharge_date": "2024-03-28T18:46:20.236Z",
+            "discharge_reason": "REC",
+            "death_datetime": "2024-03-28T18:46:20.236Z",
+            "death_confirmed_doctor": "string",
+            "bed_number": "string",
+            "is_kasp": true,
+            "kasp_enabled_date": "2024-03-28T18:46:20.236Z",
+            "is_telemedicine": true,
+            "last_updated_by_telemedicine": true,
+            "deprecated_verified_by": "string",
+            "height": 0,
+            "weight": 0,
+            "operation": "string",
+            "special_instruction": "string",
+            "intubation_history": {
+              "additionalProp1": "string",
+              "additionalProp2": "string",
+              "additionalProp3": "string"
+            },
+            "prn_prescription": {
+              "additionalProp1": "string",
+              "additionalProp2": "string",
+              "additionalProp3": "string"
+            },
+            "discharge_advice": {
+              "additionalProp1": "string",
+              "additionalProp2": "string",
+              "additionalProp3": "string"
+            },
+            "assigned_clinicians": [
+              0
+            ]
+          },
+          "blood_group": "A+",
+          "disease_status": "SUSPECTED",
+          "source": 10,
+          "assigned_to_object": {
+            "id": 0,
+            "first_name": "string",
+            "username": "yd-659bgqrpr5epu",
+            "email": "user@example.com",
+            "last_name": "string",
+            "user_type": 2,
+            "last_login": "2024-03-28T18:46:20.237Z"
+          },
+          "has_eligible_policy": "string",
+          "approved_claim_amount": "string",
+          "created_date": "2024-03-28T18:46:20.237Z",
+          "modified_date": "2024-03-28T18:46:20.237Z",
+          "name": "string",
+          "age": 2147483647,
+          "gender": 1,
+          "phone_number": "+1912937496669",
+          "emergency_phone_number": "+919796032805",
+          "address": "string",
+          "permanent_address": "string",
+          "pincode": 2147483647,
+          "date_of_birth": "2024-03-28",
+          "nationality": "string",
+          "passport_no": "string",
+          "is_medical_worker": true,
+          "contact_with_confirmed_carrier": true,
+          "contact_with_suspected_carrier": true,
+          "estimated_contact_date": "2024-03-28T18:46:20.237Z",
+          "past_travel": true,
+          "countries_travelled": {
+            "additionalProp1": "string",
+            "additionalProp2": "string",
+            "additionalProp3": "string"
+          },
+          "date_of_return": "2024-03-28T18:46:20.237Z",
+          "present_health": "string",
+          "has_SARI": true,
+          "is_antenatal": true,
+          "last_menstruation_start_date": "2024-03-28",
+          "date_of_delivery": "2024-03-28",
+          "ward_old": "string",
+          "is_migrant_worker": true,
+          "number_of_aged_dependents": 2147483647,
+          "number_of_chronic_diseased_dependents": 2147483647,
+          "action": 10,
+          "review_time": "2024-03-28T18:46:20.237Z",
+          "is_active": true,
+          "date_of_receipt_of_information": "2024-03-28T18:46:20.237Z",
+          "test_id": "string",
+          "date_of_test": "2024-03-28T18:46:20.237Z",
+          "srf_id": "string",
+          "test_type": 10,
+          "allow_transfer": true,
+          "will_donate_blood": true,
+          "fit_for_blood_donation": true,
+          "village": "string",
+          "designation_of_health_care_worker": "string",
+          "instituion_of_health_care_worker": "string",
+          "transit_details": "string",
+          "frontline_worker": "string",
+          "date_of_result": "2024-03-28T18:46:20.237Z",
+          "number_of_primary_contacts": 2147483647,
+          "number_of_secondary_contacts": 2147483647,
+          "is_vaccinated": true,
+          "number_of_doses": 3,
+          "vaccine_name": "CoviShield",
+          "covin_id": "string",
+          "last_vaccinated_date": "2024-03-28T18:46:20.237Z",
+          "cluster_name": "string",
+          "is_declared_positive": true,
+          "date_declared_positive": "2024-03-28T18:46:20.237Z",
+          "nearest_facility": 0,
+          "ward": 0,
+          "local_body": 0,
+          "district": 0,
+          "state": 0,
+          "last_edited": 0,
+          "assigned_to": 0,
+          "abha_number": 0
+        },
+        "patient_in_contact": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+        "date_of_first_contact": "2024-03-28",
+        "date_of_last_contact": "2024-03-28",
+        "is_primary": true,
+        "condition_of_contact_is_symptomatic": true,
+        "deleted": true
+      }
+    ],
+    "test_type": "UNK",
+    "last_edited": {
+      "id": 0,
+      "first_name": "string",
+      "username": "f9.ojcv8",
+      "email": "user@example.com",
+      "last_name": "string",
+      "user_type": 2,
+      "last_login": "2024-03-28T18:46:20.237Z"
+    },
+    "created_by": {
+      "id": 0,
+      "first_name": "string",
+      "username": "dfum25.da2hv2p",
+      "email": "user@example.com",
+      "last_name": "string",
+      "user_type": 2,
+      "last_login": "2024-03-28T18:46:20.237Z"
+    },
+    "vaccine_name": "CoviShield",
+    "assigned_to": 0,
+    "allow_transfer": true,
+    "abha_number": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "abha_number_object": {
+      "id": 0,
+      "external_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+      "created_date": "2024-03-28T18:46:20.237Z",
+      "modified_date": "2024-03-28T18:46:20.237Z",
+      "deleted": true,
+      "abha_number": "string",
+      "health_id": "string",
+      "name": "string",
+      "first_name": "string",
+      "middle_name": "string",
+      "last_name": "string",
+      "gender": "string",
+      "date_of_birth": "string",
+      "address": "string",
+      "district": "string",
+      "state": "string",
+      "pincode": "string",
+      "email": "user@example.com",
+      "profile_photo": "string",
+      "new": true
+    },
+    "created_date": "2024-03-28T18:46:20.237Z",
+    "modified_date": "2024-03-28T18:46:20.237Z",
+    "name": "string",
+    "age": 2147483647,
+    "gender": 1,
+    "phone_number": "+809626289286",
+    "emergency_phone_number": "+9192579703",
+    "address": "string",
+    "permanent_address": "string",
+    "pincode": 2147483647,
+    "date_of_birth": "2024-03-28",
+    "nationality": "string",
+    "passport_no": "string",
+    "is_medical_worker": true,
+    "contact_with_confirmed_carrier": true,
+    "contact_with_suspected_carrier": true,
+    "estimated_contact_date": "2024-03-28T18:46:20.237Z",
+    "past_travel": true,
+    "countries_travelled": {
+      "additionalProp1": "string",
+      "additionalProp2": "string",
+      "additionalProp3": "string"
+    },
+    "date_of_return": "2024-03-28T18:46:20.237Z",
+    "allergies": "string",
+    "present_health": "string",
+    "ongoing_medication": "string",
+    "has_SARI": true,
+    "is_antenatal": true,
+    "last_menstruation_start_date": "2024-03-28",
+    "date_of_delivery": "2024-03-28",
+    "ward_old": "string",
+    "is_migrant_worker": true,
+    "number_of_aged_dependents": 2147483647,
+    "number_of_chronic_diseased_dependents": 2147483647,
+    "action": 10,
+    "review_time": "2024-03-28T18:46:20.237Z",
+    "is_active": true,
+    "date_of_receipt_of_information": "2024-03-28T18:46:20.237Z",
+    "test_id": "string",
+    "date_of_test": "2024-03-28T18:46:20.237Z",
+    "srf_id": "string",
+    "will_donate_blood": true,
+    "fit_for_blood_donation": true,
+    "village": "string",
+    "designation_of_health_care_worker": "string",
+    "instituion_of_health_care_worker": "string",
+    "transit_details": "string",
+    "frontline_worker": "string",
+    "date_of_result": "2024-03-28T18:46:20.237Z",
+    "number_of_primary_contacts": 2147483647,
+    "number_of_secondary_contacts": 2147483647,
+    "is_vaccinated": true,
+    "number_of_doses": 3,
+    "covin_id": "string",
+    "last_vaccinated_date": "2024-03-28T18:46:20.237Z",
+    "cluster_name": "string",
+    "is_declared_positive": true,
+    "date_declared_positive": "2024-03-28T18:46:20.237Z",
+    "nearest_facility": 0,
+    "ward": 0,
+    "local_body": 0,
+    "district": 0,
+    "state": 0
+  }
