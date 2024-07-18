@@ -18,8 +18,8 @@ from bot.Response import Response_Handler
 LOGIN_EXPIRATION_TIME=15
 
 
-account_sid = 'AC19d32cc92a35f05f4c4af29e45a58884'
-auth_token = '860272559073fa7797a3d400c8ebc636'
+account_sid = 'Your account sid'
+auth_token = 'Your auth code'
 client = Client(account_sid, auth_token)
 
 
